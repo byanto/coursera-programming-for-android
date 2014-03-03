@@ -1,0 +1,2 @@
+Edge: 16 sec
+Full: 6 secs
