@@ -1,0 +1,6 @@
+03-12 20:28:24.718: I/Lab-Location(1974): Entered footerView.OnClickListener.onClick()
+03-12 20:28:25.222: I/Lab-Location(1974): Starting Place Download
+03-12 20:28:26.398: I/Lab-Location(1974): Entered addNewPlace()
+03-12 20:28:29.902: I/Lab-Location(1974): Entered footerView.OnClickListener.onClick()
+03-12 20:28:30.402: I/Lab-Location(1974): You already have this location badge
+03-12 20:28:35.910: I/Lab-Location(1974): Place: The Greenhouse Country: United States
